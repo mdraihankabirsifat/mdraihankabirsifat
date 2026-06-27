@@ -62,9 +62,14 @@ Currently building beginner-friendly projects for exploration and fun
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/www.raihankabireusc">
-  <img src="./assets/tryhackme-card.svg" alt="TryHackMe Card" />
-</a>
+### TryHackMe
+
+| Field        | Details                                                              |
+| ------------ | -------------------------------------------------------------------- |
+| **Username** | [`www.raihankabireusc`](https://tryhackme.com/p/www.raihankabireusc) |
+| **Platform** | TryHackMe                                                            |
+| **Focus**    | CTF · Linux · Networking · Web Security                              |
+| **Status**   | Learning cybersecurity fundamentals                                  |
 
 </div>
 
