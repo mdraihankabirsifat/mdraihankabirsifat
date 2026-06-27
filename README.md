@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=500&lines=BUET+CSE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Md.+Raihan+Kabir+Sifat;BUET+CSE+%7C+Competitive+Programming;Learning+Systems%2C+Security+%26+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@ Currently building beginner-friendly projects for exploration and fun
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,git,github,vscode,linux" alt="Tech Stack" />
 
 </div>
 
@@ -63,7 +63,7 @@ Currently building beginner-friendly projects for exploration and fun
 <div align="center">
 
 <a href="https://tryhackme.com/p/www.raihankabireusc">
-  <img src="https://img.shields.io/badge/TryHackMe-www.raihankabireusc-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  <img src="./assets/tryhackme-card.svg" alt="TryHackMe Card" />
 </a>
 
 </div>
@@ -99,15 +99,15 @@ Currently building beginner-friendly projects for exploration and fun
 <div align="center">
 
 <a href="https://www.linkedin.com/in/raihankabir2405/">
-  <img src="https://img.shields.io/badge/LinkedIn-Raihan%20Kabir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Raihan%20Kabir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:www.raihankabireusc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-www.raihankabireusc-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-www.raihankabireusc-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/mdraihankabirsifat">
-  <img src="https://img.shields.io/badge/GitHub-mdraihankabirsifat-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-mdraihankabirsifat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
