@@ -50,8 +50,8 @@ Currently building beginner-friendly projects for exploration and fun
 
 ### LeetCode
 
-<a href="https://leetcode.com/u/D2Qoh2drIl/">
-  <img src="https://leetcard.jacoblin.cool/D2Qoh2drIl?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/sifu_01/">
+  <img src="https://leetcard.jacoblin.cool/sifu_01?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 </div>
