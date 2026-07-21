@@ -66,7 +66,7 @@ Currently building beginner-friendly projects for exploration and fun
 
 | Field        | Details                                                              |
 | ------------ | -------------------------------------------------------------------- |
-| **Username** | [`www.raihankabireusc`](https://tryhackme.com/p/www.raihankabireusc) |
+| **Username** | [`rk.totoro`](https://tryhackme.com/p/rk.totoro) |
 | **Platform** | TryHackMe                                                            |
 | **Focus**    | CTF · Linux · Networking · Web Security                              |
 | **Status**   | Learning cybersecurity fundamentals                                  |
