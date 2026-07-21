@@ -79,11 +79,19 @@ Currently building beginner-friendly projects for exploration and fun
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mdraihankabirsifat&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com/?user=mdraihankabirsifat&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraihankabirsifat&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=mdraihankabirsifat&layout=compact&theme=github_dark&hide_border=true"
+  alt="Top Languages"
+/>
 
 </div>
 
